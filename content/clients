@@ -10,7 +10,7 @@
 Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.
         \stopTwoColumnsA
 
-\blank[2*medium]
+\blank[medium]
 
         \startTwoColumnsB
         {\WORD \tfa \color[light]{Industry or \par Sector}}
@@ -177,12 +177,6 @@ Many desktop publishing packages and web page editors now use Lorem Ipsum as the
 
         {\WORD \tfa \color[light]{Industry or \par Sector}}
         \blank[halfline]
-        \color[dark]{\bf Client Name}\par
-        \color[base]{Country}
-        \blank[small]
-        \color[dark]{\bf Client Name}\par
-        \color[base]{Country}
-        \blank[small]
         \color[dark]{\bf Client Name}\par
         \color[base]{Country}
         \blank[small]

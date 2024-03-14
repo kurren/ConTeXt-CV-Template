@@ -2,18 +2,18 @@
 \blank[5*medium]
 % LEFT COLUMN Start
 \startTwoColumns
-\color[dark]{\bf Team Leadership}
+\color[dark]{\bf Domain Name}
 
-\color[base]{15+ years}
+\color[base]{years of experience}
 \blank[.5cm]
 
-{\switchtobodyfont[6.6pt]\color[light]{Scrum Alliance{\registered}\par}}
-{\switchtobodyfont[6.6pt]\color[light]{Certified Agile Leadership \par}}\par
+{\switchtobodyfont[6.6pt]\color[light]{Certification \par}}
+{\switchtobodyfont[6.6pt]\color[light]{Ceertification \par}}\par
 
 \blank[medium]
 
-{\switchtobodyfont[6.6pt]\color[light]{Scrum Alliance{\registered}\par}}
-{\switchtobodyfont[6.6pt]\color[light]{Certified Agile Product Owner\par}}\par
+{\switchtobodyfont[6.6pt]\color[light]{Certification \par}}
+{\switchtobodyfont[6.6pt]\color[light]{Ceertification \par}}\par
 
 % End 
 
@@ -36,9 +36,9 @@
 
 % LEFT COLUMN Start
 \startTwoColumns
-\color[dark]{\bf Service & \par Experience Design}
+\color[dark]{\bf Domain Name}
 
-\color[base]{20+ years}
+\color[base]{years of experience}
 
 % End 
 
@@ -139,7 +139,7 @@
                             % THIRD ROW
                             \startMultiColumns
 
-{\WORD \tfa \color[light]{\par Some \par Tile \par or another}}
+{\WORD \tfa \color[light]{\par Some \par Title \par or another}}
 
 \MultiColumns
 

@@ -16,57 +16,52 @@
 
         % LEFT COLUMN Start
         \startTwoColumns
-        \color[dark]{
-                {\bf Domain Name}}
+\color[dark]{\bf Domain Name}
 
-                \color[base]{Years of experience}
+\color[base]{years of experience}
                 \blank[.5cm]
 % End 
 
 % RIGHT COLUMN Start
 \TwoColumns
 \color[base]{
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 \blank[2*small]
 \par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
-\par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
-\par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
-\par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
-\par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+        {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
 }\stopTwoColumns 
                 % End
 
         % LEFT COLUMN Start
         \startTwoColumns
-        \color[dark]{
-                {\bf Strategic Design}}
+\color[dark]{\bf Domain Name}
 
-                \color[base]{10+ years}
+\color[base]{years of experience}
                 \blank[.5cm]
-{\switchtobodyfont[6.6pt]\color[light]{LEGO\high{\registered} SERIOUS
-        PLAY\high{\registered}\par}}
-{\switchtobodyfont[6.6pt]\color[light]{Trained LSP Facilitator\par}}\par
+{\switchtobodyfont[6.6pt]\color[light]{Certification \par}}
+{\switchtobodyfont[6.6pt]\color[light]{Ceertification \par}}\par
 % End 
 
 % RIGHT COLUMN Start
 \TwoColumns
 
-\color[base]{
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+                \color[base]{
+    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
 \blank[2*small]
 \par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
-\par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
-\par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
-\par
-{\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+        {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
 }
 \stopTwoColumns 
                 % End
