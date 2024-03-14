@@ -1,10 +1,11 @@
-\startenvironment cv_layout 
+\startenvironment cv_layout
 
 % Layout
 \setuppapersize[A4, portrait]
 \setuplayout[header=2em,footer=1cm,backspace=5em,bottom=1em,width=middle,grid=yes,headerdistance=0.2em]
 \setupblank[1.2em]
-%\showgrid
+% \setupinterlinespace[height=.72]
+% \showgrid
 
 % Colors
 \setupcolors[state=start, conversion=yes, reduction=no, rgb=yes, cmyk=yes,
@@ -41,5 +42,7 @@ textcolor=light]
 % T Y P O G R A P H Y
 % -----------------------------------
 \setupbodyfont[ber,phnl8a,ss,8.8pt]
+% \definebodyfontenvironment[text=8.8pt, x=6.5pt, xx=6pt% ]
+
 
 \stopenvironment
