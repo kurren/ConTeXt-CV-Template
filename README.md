@@ -17,6 +17,6 @@ Then you have the actual content, these are the sections where you should write 
 - **clients**
 
 You can find more about *ConTeXt* at the Wiki ConTeXt Garden https://wiki.contextgarden.net/Main_Page
-You can find an exmaple of the output (cv_template.pdf) with *Lorem Ipsum* text, as well as my own cv formatted with this template *apianabianco_cv.pdf*
+You can find an exmaple of the output (cv_template.pdf) with *Lorem Ipsum* text, as well as my own cv formatted with this template: *apianabianco_cv.pdf*
 
 a.
