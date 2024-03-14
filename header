@@ -1,5 +1,0 @@
-\setupheadertexts[\setups{headertext}]
-\startsetups headertext
-\framed[frame=off, align=middle]
-{\color[dark]{\tfc Your Name Here \\ \tfa alias@example.com}}
-\stopsetups%
