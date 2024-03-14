@@ -1,0 +1,45 @@
+\startenvironment cv_layout 
+
+% Layout
+\setuppapersize[A4, portrait]
+\setuplayout[header=2em,footer=1cm,backspace=5em,bottom=1em,width=middle,grid=yes,headerdistance=0.2em]
+\setupblank[1.2em]
+%\showgrid
+
+% Colors
+\setupcolors[state=start, conversion=yes, reduction=no, rgb=yes, cmyk=yes,
+textcolor=light]
+\definecolor[base][r=0.31,g=0.31,b=0.31]
+\definecolor[dark][r=0.11,g=0.11,b=0.11]
+\definecolor[light][r=0.51,g=0.51,b=0.51]
+
+% Paragraph
+\defineparagraphs[TwoColumns][n=2]
+\setupparagraphs[TwoColumns][1][width=13em]
+\setupparagraphs[TwoColumns][2][align=flushleft]
+\defineparagraphs[TwoColumnsA][n=2]
+\setupparagraphs[TwoColumnsA][1][width=13.2em]
+\setupparagraphs[TwoColumnsA][2][align=flushleft]
+\defineparagraphs[TwoColumnsB][n=4,distance=1.7em]
+\setupparagraphs[TwoColunnsB][1]
+\setupparagraphs[TwoColumnsB][2][align=flushleft]
+\setupparagraphs[TwoColumnsB][3][align=flushleft]
+\setupparagraphs[TwoColumnsB][4][align=flushleft]
+\defineparagraphs[MultiColumns][n=4]
+\setupparagraphs[MultiColumns][1][2em]
+\setupparagraphs[MultiColumns][2][2em]
+\setupparagraphs[MultiColumns][3][2em]
+\setupparagraphs[MultiColumns][4][2em]
+
+% List style
+\defineitemgroup[clnts][levels=1]
+\setupitemgroup[clnts][1][1,packed]
+
+% Page Numbering
+\setuppagenumbering[location={footer}]
+
+% T Y P O G R A P H Y
+% -----------------------------------
+\setupbodyfont[ber,phnl8a,ss,8.8pt]
+
+\stopenvironment
