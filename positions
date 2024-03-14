@@ -1,0 +1,183 @@
+\thinrule
+\blank[5*medium]
+% LEFT COLUMN Start
+\startTwoColumns
+\color[dark]{\bf Team Leadership}
+
+\color[base]{15+ years}
+\blank[.5cm]
+
+{\switchtobodyfont[6.6pt]\color[light]{Scrum Alliance{\registered}\par}}
+{\switchtobodyfont[6.6pt]\color[light]{Certified Agile Leadership \par}}\par
+
+\blank[medium]
+
+{\switchtobodyfont[6.6pt]\color[light]{Scrum Alliance{\registered}\par}}
+{\switchtobodyfont[6.6pt]\color[light]{Certified Agile Product Owner\par}}\par
+
+% End 
+
+% RIGHT COLUMN Start
+\TwoColumns
+\color[base]{
+    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        \blank[2*small]
+        \par
+        {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+}
+\stopTwoColumns 
+% End
+
+% LEFT COLUMN Start
+\startTwoColumns
+\color[dark]{\bf Service & \par Experience Design}
+
+\color[base]{20+ years}
+
+% End 
+
+% RIGHT COLUMN Start
+\TwoColumns
+\color[base]{
+    The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+        \blank[2*small]
+        \par
+        {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+    \par
+    {\bf Bullet title}: Duis quis turpis feugiat magna interdum vulputate vel commodo libero.
+
+}
+
+\stopTwoColumns 
+% End
+\blank[2*big]
+\par
+
+% LEFT COLUMN Start
+
+\startTwoColumns
+\color[dark]{
+    {\bfb Positions}}
+    % End 
+
+
+    % RIGHT COLUMN Start
+    \TwoColumns
+    It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+    \stopTwoColumns 
+    % End 
+
+    \blank[medium]
+
+    % LEFT COLUMN Start
+    % FIRST ROW
+    \startMultiColumns
+
+    \color[light]{from date -- to date}\par
+    \color[dark]{\bf Position \par title}\par
+    \color[base]{Company Name \par
+        City, Country}
+
+        \MultiColumns
+        \color[light]{from date -- to date}\par
+        \color[dark]{\bf Position \par title}\par
+        \color[base]{Company Name \par
+            City, Country}
+
+            \MultiColumns
+            \color[light]{from date -- to date}\par
+            \color[dark]{\bf Position \par title}\par
+            \color[base]{Company Name \par
+                City, Country}
+
+                \MultiColumns
+                \color[light]{from date -- to date}\par
+                \color[dark]{\bf Position \par title}\par
+                \color[base]{Company Name \par
+                    City, Country}
+                    \stopMultiColumns
+
+                    % End
+
+                    % LEFT COLUMN Start
+                    % SECOND ROW
+                    \startMultiColumns
+
+                    \color[light]{from date -- to date}\par
+                    \color[dark]{\bf Position \par title}\par
+                    \color[base]{Company Name \par
+                        City, Country}
+
+                        \MultiColumns
+                        \color[light]{from date -- to date}\par
+                        \color[dark]{\bf Position \par title}\par
+                        \color[base]{Company Name \par
+                            City, Country}
+
+                            \MultiColumns
+
+
+                            \MultiColumns
+
+                            \stopMultiColumns
+
+                            % End
+                            \blank[2*medium]
+
+
+                            % LEFT COLUMN Start
+                            % THIRD ROW
+                            \startMultiColumns
+
+{\WORD \tfa \color[light]{\par Some \par Tile \par or another}}
+
+\MultiColumns
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+\blank[small]
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+\blank[small]
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+\blank[small]
+
+\MultiColumns
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+\blank[small]
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+\blank[small]
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+\blank[small]
+
+\MultiColumns
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+\blank[small]
+
+\color[dark]{\bf Company Name}\par
+\color[base]{City, Country}
+
+\stopMultiColumns
+
+% End
