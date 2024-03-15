@@ -18,7 +18,7 @@ Then you have the actual content, these are the sections where you should write 
 
 The CV length depends on how much stuff you'd like to put in. I'm happy with mine being three pages long. The following screenshots are those three pages from my current CV.
 
-![APB CV Page 1][https://github.com/kurren/ConTeXt-CV-Template/blob/master/page_1.png]
+![APB CV Page 1](https://github.com/kurren/ConTeXt-CV-Template/blob/master/page_1.png)
 !APB CV Page 1(https://github.com/kurren/ConTeXt-CV-Template/blob/master/page_2.png?raw=true)
 !APB CV Page 1(https://github.com/kurren/ConTeXt-CV-Template/blob/master/page_3.png?raw=true)
 
