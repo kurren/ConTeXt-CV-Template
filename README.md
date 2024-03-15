@@ -16,7 +16,17 @@ Then you have the actual content, these are the sections where you should write 
 - **positions**
 - **clients**
 
+The CV length depends on how much stuff you'd like to put in. I'm happy with mine being three pages long. The following screenshots are those three pages from my current CV.
+
+!APB CV Page 1(https://github.com/kurren/ConTeXt-CV-Template/blob/master/page_1.png?raw=true)
+!APB CV Page 1(https://github.com/kurren/ConTeXt-CV-Template/blob/master/page_2.png?raw=true)
+!APB CV Page 1(https://github.com/kurren/ConTeXt-CV-Template/blob/master/page_3.png?raw=true)
+
+
 You can find more about *ConTeXt* at the Wiki ConTeXt Garden https://wiki.contextgarden.net/Main_Page
 You can find an exmaple of the output (cv_template.pdf) with *Lorem Ipsum* text, as well as my own cv formatted with this template: *apianabianco_cv.pdf*
+
+
+
 
 a.
