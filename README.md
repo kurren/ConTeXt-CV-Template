@@ -1,5 +1,5 @@
 # ConTeXt-CV-Template
-ConTeXt CV Template. This repository hosts a customizable ConTeXt (a dialect derive from TeX, like LaTeX) template designed to create visually appealing and structured CVs.
+ConTeXt CV Template. This repository hosts a customizable ConTeXt (a dialect derived from TeX, like LaTeX) template designed to create visually appealing and structured CVs.
 
 ## Structure
 The files with the suffix *tex* are the one you should edit to modify the file; basically, this is what they are doing:
